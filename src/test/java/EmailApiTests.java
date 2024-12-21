@@ -27,3 +27,4 @@ public class EmailApiTests {
         Assert.assertTrue(emailChecker.isEmailValid(TestData.invalidToken, TestData.validEmail).contains("Unauthorized"));
     }
 }
+
