@@ -12,7 +12,7 @@ Before running the project, ensure that you have the following installed:
 1. Clone the repo
    1. Open IntelliJ IDEA
    2. Navigate to File > New > Project from Version Control
-   3. Enter the Repository URL: https://github.com/menna236/Email_APIs_Automation/.git
+   3. Enter the Repository URL: https://github.com/menna236/Email_API_Automation/.git
    4. Click clone
 2. Import maven dependencies
    1. Navigate to the pom.xml file in the project
